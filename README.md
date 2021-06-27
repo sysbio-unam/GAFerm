@@ -8,9 +8,13 @@ Excel (extension .xlsx) file with four columns. The column names are: time, x, s
 
 ![Alt text](readme_files/data_format.PNG)
 
-## User interface 
+## User interface  
 
-The simulation section allows you to use seven different models and modify their kinetic and operation parameters. This is a useful tool when you are trying tyo understand the differences among the models and evaluate the effect of each parameter in the model. 
-
-### Simulation user interface
+### Simulation section
+The simulation section allows you to use seven different models and modify their kinetic and operation parameters. This is a useful tool when you are trying tyo understand the differences among the models and evaluate the effect of each parameter in the model.
 ![Alt text](readme_files/user_interface_sim.jpeg)
+
+
+### Optimization section 
+In the optimization secction it's possible to enter you data, select a model and both the parameters and their search ranges. Genetic Algorithms are used to carry out the optimization, so you select the value of the following genetic algorithm parameters: population size, number of generations, crossover probability and mutation probability. 
+![Alt text](readme_files/user_interface_opt.jpeg)
