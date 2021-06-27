@@ -6,6 +6,6 @@ This GitHub page contains the code used to developed the GAFerm app. This app al
 
 Excel file with four columns. The column names are: time, x, s and p 
 
-![Alt text](www/network1.png)
+![Alt text](readme_files/data_format.PNG)
 
 
