@@ -11,7 +11,9 @@ GAFerm works with standard xlsx-files (.xlsx). The variables used in GAFerm are:
 | p | product of each sample in the data |
 | s | product of each sample in the data |
 
+
 Each column must be named with the respective name of the variable that it contains.
+
 ![Alt text](readme_files/data_format.PNG)
 
 ## User interface  
