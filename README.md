@@ -1,6 +1,25 @@
 # GAFerm
 This GitHub page contains the code used to developed the GAFerm app. A Shiny web application that can be used for the simulation and optimization of fermentation processes. This app allow you to use six different growth kinetic models to simulate fermentation processes in different operation conditions. Also you can use Genetic Algorithms to carry out parametric optimization and to find the optimal inflow rate to a feed batch bioreactor.
 
+### Dependencies 
+The following R packages are used in this app 
+
+| Package          	| Description |
+|----------------------	|----------------------------------------------------------------------------------	|
+| shiny |shiny makes it incredibly easy to build interactive web applications with R|
+| shinydashboard | shinydashboard makes it easy to use Shiny to create dashboards|
+| markdown | Markdown is a plain-text formatting syntax that can be converted to XHTML or other formats |
+| writexl | writes a data frame to an xlsx file |
+| readxl | import excel files into R|
+| shinybusy | ddd indicators in your 'shiny' applications to show the user that the server is busy |
+| shinythemes | this package contains Bootstrap themes from https://bootswatch.com/, which are packaged for use with Shiny applications |
+| deSolve | functions that solve initial value problems of a system of first-order ordinary differential equations (ODE), of partial differential equations (PDE), of differential algebraic equations (DAE) and delay differential equations |
+| GA | flexible general-purpose toolbox implementing genetic algorithms (GAs) for stochastic optimisation|
+| FME | contains functions to run complex applications of models that produce output as a function of input parameters |
+| tidyverse | a set of packages used for data manipulation and visualization |
+| shinyWidgets | provides several custom widgets to extend those available in package shiny |
+
+
 ### Input variables for **GAFerm**
 GAFerm works with standard xlsx-files (.xlsx). The variables used in GAFerm are:
 
