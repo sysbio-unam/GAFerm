@@ -28,7 +28,7 @@ GAFerm works with standard xlsx-files (.xlsx). The variables used in GAFerm are:
 | time | time of each sample in the data|
 | x | biomass of each sample in the data |
 | p | product of each sample in the data |
-| s | product of each sample in the data |
+| s | substrate of each sample in the data |
 
 
 Each column must be named with the respective name of the variable that it contains.
