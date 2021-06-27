@@ -10,4 +10,7 @@ Excel (extension .xlsx) file with four columns. The column names are: time, x, s
 
 ## User interface 
 
+The simulation section allows you to use seven different models and modify their kinetic and operation parameters. This is a useful tool when you are trying tyo understand the differences among the models and evaluate the effect of each parameter in the model. 
+
+### Simulation user interface
 ![Alt text](readme_files/user_interface_sim.jpeg)
