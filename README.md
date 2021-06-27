@@ -10,6 +10,4 @@ Excel (extension .xlsx) file with four columns. The column names are: time, x, s
 
 ## User interface 
 
-
-
-
+![Alt text](readme_files/user_interface_sim.jpeg)
