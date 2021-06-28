@@ -56,7 +56,10 @@ This web application was developed as a thesis project. The members and institut
 * Juan Manuel Gutiérrez García 
 
 Instituto Tecnológico de Morelia 
+
 ![Alt text](readme_files/tec_logo.PNG)
 
+
 Instituto de Investigaciones Biomédicas de la Universidad Nacional Autónoma de México
-![Alt text](readme_files/unam_lofo.PNG)
+
+![Alt text](readme_files/unam_logo.PNG)
