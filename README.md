@@ -47,9 +47,9 @@ The simulation section allows you to use seven different models and modify their
 In the optimization section it's possible to enter you data, select a model and both the parameters and their search ranges. Genetic Algorithms are used to carry out the optimization.You have to select the value of the following genetic algorithm parameters: population size, number of generations, crossover probability and mutation probability. 
 ![Alt text](readme_files/user_interface_opt.jpeg)
 
-### Team work 
+### Work team 
 
-This web application was developed as a thesis project. The memebers and institutions involved are: 
+This web application was developed as a thesis project. The members and institutions involved are: 
 
 * D.C. Elisa Domínguez Hüttinger 
 * D.C. Juan Carlos González Hernández
