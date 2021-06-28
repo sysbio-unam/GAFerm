@@ -56,4 +56,5 @@ This web application was developed as a thesis project. The members and institut
 * Juan Manuel Gutiérrez García 
 
 Instituto Tecnológico de Morelia 
+
 Instituto de Investigaciones Biomédicas de la Universidad Nacional Autónoma de México
