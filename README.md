@@ -51,9 +51,9 @@ In the optimization section it's possible to enter you data, select a model and 
 
 This web application was developed as a thesis project. The members and institutions involved are: 
 
-** D.C. Elisa Domínguez Hüttinger 
-** D.C. Juan Carlos González Hernández
-** Juan Manuel Gutiérrez García 
+* D.C. Elisa Domínguez Hüttinger 
+* D.C. Juan Carlos González Hernández
+* Juan Manuel Gutiérrez García 
 
-- Instituto Tecnológico de Morelia 
-- Instituto de Investigaciones Biomédicas de la Universidad Nacional Autónoma de México
+Instituto Tecnológico de Morelia 
+Instituto de Investigaciones Biomédicas de la Universidad Nacional Autónoma de México
