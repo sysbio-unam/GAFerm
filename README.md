@@ -1,5 +1,5 @@
 # GAFerm
-This GitHub page contains the code used to developed the GAFerm app. A Shiny web application that can be used for simulation and optimization of fermentation processes. This app allows you to use seven different growth kinetic models to simulate fermentation processes in different operation conditions. Also you can use Genetic Algorithms to carry out parametric optimization and to find the optimal inflow rate to a feed batch bioreactor.
+This GitHub page contains the code used to develop the GAFerm app. A Shiny web application that can be used for simulation and optimization of fermentation processes. This app allows you to use seven different growth kinetic models to simulate fermentation processes in different operation conditions. Also you can use Genetic Algorithms to carry out parametric optimization and to find the optimal inflow rate to a feed batch bioreactor.
 
 ### Dependencies 
 The following R packages are used in this app 
