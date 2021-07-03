@@ -36,7 +36,7 @@ Each column must be named with the respective name of the variable that it conta
 ![Alt text](readme_files/data_format.PNG)
 
 ## User interface  
-You can access to the web application in the following [link](https://juanmanuelgutierrezg.shinyapps.io/GAFerm/) 
+You can access the web application in the following [link](https://juanmanuelgutierrezg.shinyapps.io/GAFerm/) 
 
 ### Simulation section
 The simulation section allows you to use seven different models and modify their kinetic and operation parameters. This is a useful tool when you are trying to understand the differences between the models and evaluate the effect of each parameter in the model.
